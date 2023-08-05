@@ -1,5 +1,5 @@
 ### Hi there 👋
-Mi nombre es**Victor Manuel Hernandez Vargas**, a lo largo de mi vida me gusta aprender las diferentes tecnologías como el desarrollo web, inteligencia artificial, robótica y realidad aumentada.
+Mi nombre es **Victor Manuel Hernandez Vargas**, a lo largo de mi vida me gusta aprender las diferentes tecnologías como el desarrollo web, inteligencia artificial, robótica y realidad aumentada.
 Llevo haciendo aplicaciones y páginas web de forma profesional y activa durante los últimos años. Esto hace que haya ido acumulando experiencia en muchos lenguajes y fases del desarrollo de aplicaciones. Puedo aprender nuevas tecnologías con rapidez, y de hecho, me encanta hacerlo.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNtMzFya2hlMGFjeWpjaTJsc3N0aWE2bzFrMzNxMmtkMXhmOGRncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="480" height="360"/>
